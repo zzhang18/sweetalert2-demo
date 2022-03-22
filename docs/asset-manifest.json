@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/sweetalert2-demo/static/css/main.2da42b5c.css",
-    "main.js": "/sweetalert2-demo/static/js/main.2e7fe286.js",
-    "static/js/787.87b0c8b7.chunk.js": "/sweetalert2-demo/static/js/787.87b0c8b7.chunk.js",
-    "index.html": "/sweetalert2-demo/index.html",
-    "main.2da42b5c.css.map": "/sweetalert2-demo/static/css/main.2da42b5c.css.map",
-    "main.2e7fe286.js.map": "/sweetalert2-demo/static/js/main.2e7fe286.js.map",
-    "787.87b0c8b7.chunk.js.map": "/sweetalert2-demo/static/js/787.87b0c8b7.chunk.js.map"
+    "main.css": "https://github.com/zzhang18/sweetalert2-demostatic/css/main.2da42b5c.css",
+    "main.js": "https://github.com/zzhang18/sweetalert2-demostatic/js/main.2e7fe286.js",
+    "static/js/787.87b0c8b7.chunk.js": "https://github.com/zzhang18/sweetalert2-demostatic/js/787.87b0c8b7.chunk.js",
+    "index.html": "https://github.com/zzhang18/sweetalert2-demoindex.html",
+    "main.2da42b5c.css.map": "https://github.com/zzhang18/sweetalert2-demostatic/css/main.2da42b5c.css.map",
+    "main.2e7fe286.js.map": "https://github.com/zzhang18/sweetalert2-demostatic/js/main.2e7fe286.js.map",
+    "787.87b0c8b7.chunk.js.map": "https://github.com/zzhang18/sweetalert2-demostatic/js/787.87b0c8b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2da42b5c.css",
