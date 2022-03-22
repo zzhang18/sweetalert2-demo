@@ -408,7 +408,7 @@ let hoc = WrappedComponent => {
       Swal.fire({
         title: this.state.title,
         icon: this.state.icon,
-        input: this.state.input
+        // input: this.state.input
       })
     }
 
